@@ -1,0 +1,23 @@
+{
+  "name": "sass-loader",
+  "version": "0.0.1",
+  "author": {
+    "name": "Håkan Rosenhorn"
+  },
+  "description": "Sass loader for Webpack",
+  "dependencies": {
+    "node-sass": "0.8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hjlarsson/sass-loader.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/hjlarsson/sass-loader"
+}
