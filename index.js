@@ -5,7 +5,6 @@ module.exports = function (content) {
     var callback = this.async();
     var loaderContext = this;
 
-    console.log("Im getting compiled");
     if (!callback) {
         var compiled;
         try {
