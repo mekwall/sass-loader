@@ -1,12 +1,12 @@
 {
   "name": "sass-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Håkan Rosenhorn"
   },
   "description": "Sass loader for Webpack",
   "dependencies": {
-    "node-sass": "0.8.x"
+    "node-sass": "2.0.0-beta"
   },
   "repository": {
     "type": "git",
